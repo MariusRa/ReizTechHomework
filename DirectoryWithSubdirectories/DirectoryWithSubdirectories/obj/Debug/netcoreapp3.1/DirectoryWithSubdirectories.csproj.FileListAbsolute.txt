@@ -1,0 +1,14 @@
+C:\Users\mariu\Desktop\ReizTech\DirectoryWithSubdirectories\DirectoryWithSubdirectories\bin\Debug\netcoreapp3.1\DirectoryWithSubdirectories.exe
+C:\Users\mariu\Desktop\ReizTech\DirectoryWithSubdirectories\DirectoryWithSubdirectories\bin\Debug\netcoreapp3.1\DirectoryWithSubdirectories.deps.json
+C:\Users\mariu\Desktop\ReizTech\DirectoryWithSubdirectories\DirectoryWithSubdirectories\bin\Debug\netcoreapp3.1\DirectoryWithSubdirectories.runtimeconfig.json
+C:\Users\mariu\Desktop\ReizTech\DirectoryWithSubdirectories\DirectoryWithSubdirectories\bin\Debug\netcoreapp3.1\DirectoryWithSubdirectories.runtimeconfig.dev.json
+C:\Users\mariu\Desktop\ReizTech\DirectoryWithSubdirectories\DirectoryWithSubdirectories\bin\Debug\netcoreapp3.1\DirectoryWithSubdirectories.dll
+C:\Users\mariu\Desktop\ReizTech\DirectoryWithSubdirectories\DirectoryWithSubdirectories\bin\Debug\netcoreapp3.1\DirectoryWithSubdirectories.pdb
+C:\Users\mariu\Desktop\ReizTech\DirectoryWithSubdirectories\DirectoryWithSubdirectories\obj\Debug\netcoreapp3.1\DirectoryWithSubdirectories.csproj.AssemblyReference.cache
+C:\Users\mariu\Desktop\ReizTech\DirectoryWithSubdirectories\DirectoryWithSubdirectories\obj\Debug\netcoreapp3.1\DirectoryWithSubdirectories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mariu\Desktop\ReizTech\DirectoryWithSubdirectories\DirectoryWithSubdirectories\obj\Debug\netcoreapp3.1\DirectoryWithSubdirectories.AssemblyInfoInputs.cache
+C:\Users\mariu\Desktop\ReizTech\DirectoryWithSubdirectories\DirectoryWithSubdirectories\obj\Debug\netcoreapp3.1\DirectoryWithSubdirectories.AssemblyInfo.cs
+C:\Users\mariu\Desktop\ReizTech\DirectoryWithSubdirectories\DirectoryWithSubdirectories\obj\Debug\netcoreapp3.1\DirectoryWithSubdirectories.csproj.CoreCompileInputs.cache
+C:\Users\mariu\Desktop\ReizTech\DirectoryWithSubdirectories\DirectoryWithSubdirectories\obj\Debug\netcoreapp3.1\DirectoryWithSubdirectories.dll
+C:\Users\mariu\Desktop\ReizTech\DirectoryWithSubdirectories\DirectoryWithSubdirectories\obj\Debug\netcoreapp3.1\DirectoryWithSubdirectories.pdb
+C:\Users\mariu\Desktop\ReizTech\DirectoryWithSubdirectories\DirectoryWithSubdirectories\obj\Debug\netcoreapp3.1\DirectoryWithSubdirectories.genruntimeconfig.cache
